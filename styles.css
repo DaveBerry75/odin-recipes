@@ -9,3 +9,14 @@
     margin: auto;
     padding: 20px;
 }
+
+ul {
+    
+}
+
+li {
+    display: inline-block;
+    width: 30%;
+    margin: auto;
+    background-color: red;
+}
