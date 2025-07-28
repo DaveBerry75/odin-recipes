@@ -1,6 +1,11 @@
 .container {
     max-width: 960px;
-    margin: auto;
+    margin: 20px auto;
     background-color: aliceblue;
 }
 
+.title {
+    max-width: 200px;
+    margin: auto;
+    padding: 20px;
+}
