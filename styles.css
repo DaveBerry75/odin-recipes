@@ -22,10 +22,6 @@ h3 {
 .containerRecipes ol {
     margin-top: 20px;
     margin-bottom: 20px;
-}
-
-.containerRecipes ul,
-.containerRecipes ol {
     text-align: left;
     margin-left: 100px;
 }
