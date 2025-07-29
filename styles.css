@@ -4,18 +4,25 @@
     background-color: aliceblue;
 }
 
+.containerRecipes {
+    text-align: center;
+}
+
+.containerRecipes ul,
+.containerRecipes ol {
+    text-align: left;
+    margin-left: 100px;
+}
+
 .title {
     max-width: 200px;
     margin: auto;
     padding: 20px;
 }
 
-ul {
-    
-}
-
-li {
+.indexList li {
     display: inline-block;
-    width: 30%;
+    width: 33%;
     margin: auto;
+    text-align: center;
 }
