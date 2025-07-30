@@ -3,7 +3,8 @@ body {
 }
 
 .container {
-    max-width: 960px;
+    max-width: 1200px;
+    height: 1200px;
     margin: 20px auto;
     background-color: aliceblue;
 }
@@ -40,6 +41,13 @@ h3 {
     list-style-type: none;
     display: flex;
     justify-content: space-around;
+    text-align: center;
+}
+
+.indexList img {
+    display: block;
+    width: 300px;
+    height: 200px;
     text-align: center;
 }
 
