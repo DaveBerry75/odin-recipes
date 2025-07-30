@@ -36,9 +36,13 @@ h3 {
     padding: 20px;
 }
 
-.indexList li {
-    display: inline-block;
-    width: 33%;
-    margin: auto;
+.indexList {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
     text-align: center;
+}
+
+.indexList li {
+    flex: 1;
 }
